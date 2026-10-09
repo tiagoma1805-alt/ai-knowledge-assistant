@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+ai_knowledge_assistant.egg-info/PKG-INFO
+ai_knowledge_assistant.egg-info/SOURCES.txt
+ai_knowledge_assistant.egg-info/dependency_links.txt
+ai_knowledge_assistant.egg-info/requires.txt
+ai_knowledge_assistant.egg-info/top_level.txt
+app/__init__.py
+app/main.py
+app/api/__init__.py
+app/api/routes/__init__.py
+app/api/routes/chat.py
+app/schemas/__init__.py
+app/schemas/chat.py
+app/services/__init__.py
+app/services/assistant.py
